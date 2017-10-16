@@ -1,0 +1,17 @@
+#
+#   Setup
+title: Alacritty.io
+baseurl: "/"
+
+#
+#   Build
+permalink: /:categories/:year/:month/:title.html
+
+#
+#   Excludes
+exclude:
+  - node_modules
+  - gulpfile.js
+  - gulpfile.babel.js
+  - package-lock.json
+  - package.json
